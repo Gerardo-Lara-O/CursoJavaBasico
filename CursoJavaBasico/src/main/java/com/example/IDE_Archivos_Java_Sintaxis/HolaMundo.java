@@ -1,4 +1,4 @@
-package IDE_Archivos_Java_Sintaxis;
+package com.example.IDE_Archivos_Java_Sintaxis;
 
 /**
  * Clase de prueba para crear un programa basico en java

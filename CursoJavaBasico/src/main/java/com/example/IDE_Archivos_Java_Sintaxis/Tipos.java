@@ -1,4 +1,4 @@
-package IDE_Archivos_Java_Sintaxis;
+package com.example.IDE_Archivos_Java_Sintaxis;
 
 public class Tipos {
     public static void main(String[] args) {

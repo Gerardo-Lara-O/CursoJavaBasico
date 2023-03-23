@@ -1,4 +1,4 @@
-package Funciones;
+package com.example.Funciones;
 
 public class OperadoresComparacion {
     public static void main(String[] args) {
